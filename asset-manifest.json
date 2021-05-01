@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/prova-pages/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/prova-pages/static/js/main.130361f8.chunk.js",
+    "main.js.map": "/prova-pages/static/js/main.130361f8.chunk.js.map",
+    "runtime-main.js": "/prova-pages/static/js/runtime-main.020a57f4.js",
+    "runtime-main.js.map": "/prova-pages/static/js/runtime-main.020a57f4.js.map",
+    "static/js/2.88d59862.chunk.js": "/prova-pages/static/js/2.88d59862.chunk.js",
+    "static/js/2.88d59862.chunk.js.map": "/prova-pages/static/js/2.88d59862.chunk.js.map",
+    "static/js/3.ef8773ad.chunk.js": "/prova-pages/static/js/3.ef8773ad.chunk.js",
+    "static/js/3.ef8773ad.chunk.js.map": "/prova-pages/static/js/3.ef8773ad.chunk.js.map",
+    "index.html": "/prova-pages/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/prova-pages/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.88d59862.chunk.js.LICENSE.txt": "/prova-pages/static/js/2.88d59862.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/prova-pages/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.020a57f4.js",
+    "static/js/2.88d59862.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.130361f8.chunk.js"
+  ]
+}
